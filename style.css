@@ -21,4 +21,6 @@ a:visited{
 details{
   background-color: red;
   flex-direction: row;
+  margin-left: 30px;
+  margin-right: 30px;
 }
