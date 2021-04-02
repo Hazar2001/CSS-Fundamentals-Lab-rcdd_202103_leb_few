@@ -14,11 +14,11 @@ a:visited{
  .logo{
    text-align: center;
  }
- 
+
  #featured-property{
    justify-content: center;
 }
 details{
   background-color: red;
-  flex-direction: row; 
+  flex-direction: row;
 }
